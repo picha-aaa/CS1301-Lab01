@@ -1,0 +1,3 @@
+streamlit
+requests
+altair #for Pofolio cuztomization pages
